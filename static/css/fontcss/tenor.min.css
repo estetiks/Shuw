@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "SMHeadersFont";
+	src: url(static/fonts/TenorSans.eot);
+	src: local("Tenor Sans"),local("TenorSans"),url(static/fonts/TenorSans.eot?#iefix)format("embedded-opentype"),url(static/fonts/TenorSans.woff)format("woff"),url(TenorSans.ttf)format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}

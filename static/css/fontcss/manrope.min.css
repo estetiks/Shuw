@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "SMTextsFont";
+	src: url(static/fonts/Manrope-Bold.eot);
+	src: local("Manrope Bold"),local("Manrope-Bold"),url(static/fonts/Manrope-Bold.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Bold.woff2)format("woff2"),url(static/fonts/Manrope-Bold.woff)format("woff"),url(static/fonts/Manrope-Bold.ttf)format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-Semibold.eot);src:local("Manrope Semibold"),local("Manrope-Semibold"),url(static/fonts/Manrope-Semibold.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Semibold.woff2)format("woff2"),url(static/fonts/Manrope-Semibold.woff)format("woff"),url(static/fonts/Manrope-Semibold.ttf)format("truetype");font-weight:600;font-style:normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-Regular.eot);src:local("Manrope Regular"),local("Manrope-Regular"),url(static/fonts/Manrope-Regular.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Regular.woff2)format("woff2"),url(static/fonts/Manrope-Regular.woff)format("woff"),url(static/fonts/Manrope-Regular.ttf)format("truetype");font-weight:400;font-style:normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-Light.eot);src:local("Manrope Light"),local("Manrope-Light"),url(static/fonts/Manrope-Light.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Light.woff2)format("woff2"),url(static/fonts/Manrope-Light.woff)format("woff"),url(static/fonts/Manrope-Light.ttf)format("truetype");font-weight:300;font-style:normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-Thin.eot);src:local("Manrope Thin"),local("Manrope-Thin"),url(static/fonts/Manrope-Thin.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Thin.woff2)format("woff2"),url(static/fonts/Manrope-Thin.woff)format("woff"),url(static/fonts/Manrope-Thin.ttf)format("truetype");font-weight:100;font-style:normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-Medium.eot);src:local("Manrope Medium"),local("Manrope-Medium"),url(static/fonts/Manrope-Medium.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-Medium.woff2)format("woff2"),url(static/fonts/Manrope-Medium.woff)format("woff"),url(static/fonts/Manrope-Medium.ttf)format("truetype");font-weight:500;font-style:normal;
+}
+
+@font-face {
+	font-family:"SMTextsFont";src:url(static/fonts/Manrope-ExtraBold.eot);src:local("Manrope ExtraBold"),local("Manrope-ExtraBold"),url(static/fonts/Manrope-ExtraBold.eot?#iefix)format("embedded-opentype"),url(static/fonts/Manrope-ExtraBold.woff2)format("woff2"),url(static/fonts/Manrope-ExtraBold.woff)format("woff"),url(static/fonts/Manrope-ExtraBold.ttf)format("truetype");font-weight:800;font-style:normal;
+}
