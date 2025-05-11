@@ -2360,11 +2360,11 @@ img {
 	position: relative;
 }
 
-@media (max-width:450px) {
+
 	.sm-code__colors {
 		padding-top: 105px;
 	}
-}
+
 
 .sm-code__colors-title {
 	position: absolute;
@@ -2380,12 +2380,12 @@ img {
 	font-family: Caravan,sans-serif;
 }
 
-@media (max-width:450px) {
+
 	.sm-code__colors-title {
 		font-size: 150px;
 		top: 0;
 	}
-}
+
 
 .sm-code__colors-list {
 	display: flex;
@@ -2395,11 +2395,11 @@ img {
 	z-index: 2;
 }
 
-@media (max-width:450px) {
+
 	.sm-code__colors-list {
 		justify-content: center;
 	}
-}
+
 
 .sm_colors {
 	width: 100px;
@@ -2407,7 +2407,7 @@ img {
 	margin: 0 20px;
 }
 
-@media (max-width:450px) {
+
 	.sm_colors {
 		flex: 1 1 0;
 		max-width: 100px;
@@ -2416,7 +2416,7 @@ img {
 		aspect-ratio: 1/1;
 		margin: 0 8px;
 	}
-}
+
 
 .sm-code__sliders {
 	margin-top: 88px;
